@@ -58,18 +58,6 @@ An intelligent chatbot for tile recommendations.
 - 🛠️ **Tech Stack**: React.js, Python
 - ✨ **Features**: Web Scraping, Intelligent Query Processing, Real-time Suggestions
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sainath9866&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sainath9866&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## 🎓 Education
-- 🎯 B.Tech in Computer Science and Engineering at Kalasalingam Academy (2022 - Present)
-  - CGPA: 8.54
-- 📚 Class 12 at Narayana College (SSE) - 97%
-- 📚 Class 10 at SSS Gurukulam (ICSE) - 93.7%
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sainath9866&color=blue" alt="Profile Views" />
